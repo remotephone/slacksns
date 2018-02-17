@@ -4,7 +4,7 @@
 
 Clicking on the Launch Stack button will launch the Cloudformation template in your AWS account in the North Virginia region. 
 
-[![Launch CloudFormation Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=lambci&templateURL=https://s3.amazonaws.com/rahultest01/Slack_SNS_Notification.yaml)
+[![Launch CloudFormation Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=lambci&templateURL=https://s3.amazonaws.com/23r53gh345yh31yu345gyhqw45h45tenbhe4rt6bhnjqw45hbn4w56h/Slack_SNS_Notification.yaml)
 
 
 ## Resources Created as part of this template
